@@ -14,15 +14,15 @@ button {
 }
 
 button:hover {
-    background-color: #a6b1e1 ;
+    background-color:azure ;
 }
 
 h1 { 
-    Font-Family: 'Source Serif Pro', Serif;
+    Font-Family: 'Playfair Display', Serif;
     Font-Size: 48px;
     font-weight: 1,000 ;
 }
 
 h2 {
-    Font-Family: 'Oswald', Sans-Serif;
+    Font-Family: 'Source Sans Pro', Sans-Serif;
 }
