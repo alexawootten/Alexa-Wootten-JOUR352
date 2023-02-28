@@ -1,0 +1,28 @@
+body {
+     background-color:aliceblue;
+    text-align: center ;
+    }       
+button {
+    background-color:aquamarine;
+    color:azure ;
+    font-family: 'Source Sans Pro', Sans-Serif;
+    width: 200px ;
+    padding: 10px ;
+    margin: 50px 0px 0px 0px ;
+    border: none ; 
+    border-radius: 10px ;
+}
+
+button:hover {
+    background-color: #a6b1e1 ;
+}
+
+h1 { 
+    Font-Family: 'Source Serif Pro', Serif;
+    Font-Size: 48px;
+    font-weight: 1,000 ;
+}
+
+h2 {
+    Font-Family: 'Oswald', Sans-Serif;
+}
