@@ -1,0 +1,31 @@
+/*
+MY COLOR PALETTE
+Color 1 - #HEX
+Color 2 - #HEX
+Color 3 - #HEX
+Color 4 - #HEX
+Color 5 - #HEX
+*/
+
+body {
+    background-color: #5D737E ;
+    text-align:center;
+}
+
+div {
+    width: 300px;
+    height: 385px;
+    text-align:center;
+    font-size:44px;
+    font-family: 'Merriweather' , sans-serif;
+    color: #64B6AC ;
+    border: 3px solid white;
+    padding: 15px;
+    margin: 0 auto;
+    
+}
+
+#highlight {
+    background-color: #FCFFFD;
+    font-weight: bold;
+}
