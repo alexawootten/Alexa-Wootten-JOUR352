@@ -1,0 +1,52 @@
+.container-fluid {
+    background-color: white;
+}
+
+
+#topper {
+    background-color: #5590C7 ;
+}
+
+
+h1 {
+    font-family: 'Nanum Myeongjo', serif ;
+}
+
+h2 {
+     font-family: 'Nanum Myeongjo', sans-serif;
+    font-size: 20px
+}
+
+img {
+  border-radius: 50%;
+}
+
+button {
+    background-color: white;
+    color: black;
+    Font-Family: 'Nanum Myeongjo', serif ;
+    width: 100px ;
+    padding: 10px ;
+    border: none ; 
+}
+
+h3 {
+    font-family: 'Nanum Myeongjo', serif ;
+}
+
+p {
+    font-family: 'Nanum Myeongjo', sans-serif;
+}
+
+u1 {
+    font-family: 'Nanum Myeongjo', sans-serif;
+}
+
+button { 
+    font-family: 'Nanum Myeongjo', serif ;
+}
+
+#bottom {
+    background-color: #1D314D;
+    color: white;
+}
