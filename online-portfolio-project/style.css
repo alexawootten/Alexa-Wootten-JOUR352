@@ -1,3 +1,4 @@
+@media {
 .container-fluid {
     background-color: white;
 }
@@ -19,7 +20,7 @@ h2 {
 
 img {
   border-radius: 50%;
-    width: 100%;
+    
 }
 
 button {
@@ -50,4 +51,12 @@ button {
 #bottom {
     background-color: #1D314D;
     color: white;
+}
+}
+
+@media (min-width: 576px) {
+    img {
+        border-radius: 25%;
+    }
+    }
 }
