@@ -1,62 +1,140 @@
 @media {
-.container-fluid {
-    background-color: white;
-}
-
-
-#topper {
-    background-color: #5590C7 ;
-}
-
-
-h1 {
-    font-family: 'Nanum Myeongjo', serif ;
-}
-
-h2 {
-     font-family: 'Nanum Myeongjo', sans-serif;
-    font-size: 20px
-}
-
-img {
-  border-radius: 50%;
     
-}
-
-button {
-    background-color: white;
-    color: black;
-    Font-Family: 'Nanum Myeongjo', serif ;
-    width: 100px ;
-    padding: 10px ;
-    border: none ; 
-}
-
-h3 {
-    font-family: 'Nanum Myeongjo', serif ;
-}
-
-p {
-    font-family: 'Nanum Myeongjo', sans-serif;
-}
-
-u1 {
-    font-family: 'Nanum Myeongjo', sans-serif;
-}
-
-button { 
-    font-family: 'Nanum Myeongjo', serif ;
-}
-
-#bottom {
-    background-color: #1D314D;
-    color: white;
-}
+    .container-fluid {
+        background-color: white;
+    }
+    
+    #topper {
+        background-color: #5590C7;
+    }
+    
+    h1 {
+        margin:40px 0px 0px 0px;
+        font-family: 'Montserrat';
+        text-align: center;
+        font-size: 60px;
+        color: white;
+    }
+    
+    h2 {
+        font-family: 'Montserrat';
+        font-size: 30px;
+        text-align: center;
+        color: white;
+    }
+    
+    img {
+        border-radius: 50%;
+        margin-left: 78%;
+        padding: 10px;
+    }
+    
+    button {
+        background-color: white;
+        color: black;
+        font-family: 'Montserrat';
+        width: 100px;
+        padding: 10px;
+        border: none;
+        border-radius: 10px;
+        font-size: 20px;
+    }
+    
+    #title {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    
+    #navigation {
+        background-color: #1D314D;
+    }
+    
+    .nav a {
+        color: white;
+        font-family: 'Montserrat';
+        text-align: center;
+        font-size: 25px;
+    }
+    
+    .nav a:hover{
+        color: #39618C;
+    }
+    
+    .section {
+        padding: 0px 10px 0px 5px;
+    }
+    
+    h3 {
+        font-family: 'Montserrat';
+        font-weight: bold;
+        color: #18283B;
+        font-size: 30px;
+    }
+    
+    h5 {
+        font-family: 'Montserrat';
+        font-weight: bold;
+        color: #18283B;
+    }
+    
+    h6 { 
+        font-family: 'Montserrat';
+        font-size: 15px;
+        color: #18283B;
+    }
+    
+    p{
+        font-family: 'Montserrat';
+    }
+    
+    u1{
+        font-family: 'Montserrat';
+        color: #18283B;
+    }
+    
+    button {
+        font-family: 'Montserrat';
+    }
+    
+    #bottom {
+        background-color: #1D314D;
+        color: white;
+    }
 }
 
 @media (min-width: 576px) {
-    img {
-        border-radius: 25%;
+    #topper {
+    background-color: #5590C7;
     }
+    
+    h1 {
+        font-family: 'Montserrat';
+        text-align: center;
+        font-size: 60px;
+    }
+    
+    h2 {
+        font-family: 'Montserrat';
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    img {
+        margin: 0px 0px 0px 10px;
+        border-radius: 50%;
+        width: 250px;
+        height: 250px;
+    }
+    
+    button {
+        background-color: white;
+        color: black;
+        font-family: 'Montserrat';
+        width: 100px;
+        padding: 10px;
+        border: none;
+        border-radius: 10px;
+        margin-right: auto;
+        font-size: 20px;
     }
 }
