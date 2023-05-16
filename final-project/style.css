@@ -37,7 +37,13 @@ h2 {
  
 }
 
-h3 { 
+h3 {
+    font-family: Merriweather, serif;
+    font-size: 40px;
+    font-weight: bold;
+    }
+
+h4 { 
   font-family: Merriweather, serif;
     text-align: center;
     font-size: 35px;
@@ -48,7 +54,7 @@ h3 {
 
 }
 
-h4 { 
+h5 { 
     font-family: Merriweather, serif;
     font-weight: bold;
     font-size: 25px;
@@ -74,14 +80,14 @@ p1 {
     color: gray;
 }
 
-h5 {font-family: Roboto, sans-serif;
+h6 {font-family: Roboto, sans-serif;
     font-size: 12px;
     padding: 0px 0px 30px 30px;
     color: gray;
 }
 
 @media (min-width: 576px) {
-h4 { 
+h5 { 
     font-family: Merriweather, serif;
     font-weight: bold;
     font-size: 35px;
@@ -105,7 +111,7 @@ h2 {
 }
 }
 @media (min-width: 992px) {
-h4 { 
+h5 { 
     font-family: Merriweather, serif;
     font-weight: bold;
     font-size: 35px;
@@ -130,7 +136,7 @@ h2 {
 }
 
 @media (min-width: 1200px) {
-h4 { 
+h5 { 
     font-family: Merriweather, serif;
     font-weight: bold;
     font-size: 35px;
